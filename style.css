@@ -67,7 +67,7 @@ box-shadow:  13px 13px 25px #313131,
  #progress {
      color: ivory;
      font-size: 10px;
-     text-align: end;
+     text-align: left;
      font-size: 12px;
  }
  #btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
