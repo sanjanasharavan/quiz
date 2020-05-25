@@ -80,6 +80,9 @@ box-shadow:  13px 13px 25px #313131,
      text-align: center;
    
  }
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
+       outline: 0;
+}
 
 
 
